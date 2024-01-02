@@ -47,7 +47,7 @@
 
 基于上述旋转定义，根据单次绕轴旋转的知识，可知分别绕X轴，Y轴，Z轴的旋转矩阵为：
 
-$$
+```math
 \mathbf{R}_x = \left[
 \begin{matrix}
   1 & 0 & 0 \\ 0 & \cos r & \sin r \\ 0 & -\sin r & \cos r
@@ -61,7 +61,7 @@ $$
 \cos y & \sin y & 0 \\                                                        -\sin y & \cos y & 0 \\                                                   0 & 0 & 1
 \end{matrix}
 \right] 
-$$
+```
 
 另外，绕每个轴的**逆时针**方向为该轴旋转的正方向。
 
