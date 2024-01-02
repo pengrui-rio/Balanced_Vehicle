@@ -472,4 +472,4 @@ $u_{input}$输入给定时器的pwm输出通道的占空比，控制电机转速
 
 ![Untitled](%E5%8F%8C%E8%BD%AE%E5%B9%B3%E8%A1%A1%E5%B0%8F%E8%BD%A6%201ad9dd91683f4bce849c50e5ba27facd/Untitled%2017.png)
 
-[list](https://www.notion.so/list-ddf6a6500f72437f9c947743332c849a?pvs=21)
+ 
